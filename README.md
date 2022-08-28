@@ -7,7 +7,7 @@
 - [x] 필요한 데이터를 모두 모델링한다.
 - [x] 사용되는 모든 함수를 `선언부만` 만든다.
 - [x] `JSDoc`을 활용해 문서화한다.
-- [x] `GitHub Page`를 활용해 `JSDoc` <a href="https://happyeveryone96.github.io/wanted-pre-onboarding-challenge-fe-2/">정적 페이지</a>를 배포한다.
+- [x] `GitHub Page`를 활용해 `JSDoc` <a href="https://happyeveryone96.github.io/wanted-pre-onboarding-challenge-fe-2/" target="_blank">정적 페이지</a>를 배포한다.
       <br><br>
 
 ### Todo
